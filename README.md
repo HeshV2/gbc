@@ -4,6 +4,8 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
+- [My Comp Folder](https://github.com/HeshV2/gbc/blob/main/comp1238.md)
+
 - Monday
   - 10:00 - COMP1236 - [Fund. Of Computing Logic](https://learn.georgebrown.ca/d2l/home/416378)
   - 13:00 - COMP1238 - [Introduction To Data MGMT.](https://learn.georgebrown.ca/d2l/home/412494)
